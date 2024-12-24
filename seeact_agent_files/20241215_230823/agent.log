@@ -1,0 +1,9 @@
+2024-12-15 23:08:27,434 - Loaded website: https://www.apple.com/
+2024-12-15 23:08:32,104 - The active tab was closed. Will switch to the last page (or open a new default google page)
+2024-12-15 23:08:32,234 - Mark page script error Page.evaluate: Target page, context or browser has been closed
+2024-12-15 23:08:32,235 - seeact_agent_files/20241215_230823/screenshots/screen_1.png
+2024-12-15 23:08:33,023 - Step - 1
+----------
+Action Generation ➡️
+2024-12-15 23:08:33,023 - TASK: query
+2024-12-15 23:08:33,023 - Previous:
